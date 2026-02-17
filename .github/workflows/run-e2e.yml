@@ -44,5 +44,6 @@ jobs:
           APP_URL: "http://localhost:3000"
           NEXT_PUBLIC_API_BASE_URL: "https://devstore-api-seven-nu.vercel.app/"
         with:
+          install: false
           build: npm run build
           start: npm start
