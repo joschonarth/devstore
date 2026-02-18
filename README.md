@@ -6,15 +6,23 @@
 
 *O e-commerce de roupas feito por devs, para devs.*
 
-[![last commit](https://img.shields.io/github/last-commit/joschonarth/devstore?style=for-the-badge&color=8b5cf6&labelColor=27272a)](https://github.com/joschonarth/devstore/commits/main)
-[![top language](https://img.shields.io/github/languages/top/joschonarth/devstore?style=for-the-badge&color=8b5cf6&labelColor=27272a)](https://github.com/joschonarth/devstore)
-[![languages count](https://img.shields.io/github/languages/count/joschonarth/devstore?style=for-the-badge&color=8b5cf6&labelColor=27272a)](https://github.com/joschonarth/devstore)
+
+
+<img src="https://img.shields.io/github/last-commit/joschonarth/devstore?style=default&logo=git&logoColor=white&color=8b5cf6&labelColor=27272a" alt="last-commit">
+<img src="https://img.shields.io/github/languages/top/joschonarth/devstore?style=default&color=8b5cf6&labelColor=27272a" alt="repo-top-language">
+<img src="https://img.shields.io/github/languages/count/joschonarth/devstore?style=default&color=8b5cf6&labelColor=27272a" alt="repo-language-count">
+<img src="https://img.shields.io/github/actions/workflow/status/joschonarth/devstore/run-e2e.yml?style=default&color=8b5cf6&labelColor=27272a" alt="e2e-tests">
+
 
 ---
 
 📃 [Sobre](#-sobre)&nbsp;&nbsp;•&nbsp;&nbsp;🛠️ [Tecnologias](#-tecnologias)&nbsp;&nbsp;•&nbsp;&nbsp;✨ [Funcionalidades](#-funcionalidades)&nbsp;&nbsp;•&nbsp;&nbsp;🚀 [Como rodar](#-como-rodar)&nbsp;&nbsp;•&nbsp;&nbsp;🧪 [Testes](#-testes)&nbsp;&nbsp;•&nbsp;&nbsp;⚙️ [CI](#-ci)
 
 </div>
+
+---
+
+<img width="1280" height="842" alt="home" src="https://github.com/user-attachments/assets/1b6292b0-ef64-4e8f-88a4-d9806766a920" />
 
 ---
 
