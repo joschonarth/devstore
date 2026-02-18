@@ -49,12 +49,11 @@ O **devstore** é um e-commerce simulado de roupas com identidade voltada para d
 
 ## ✨ Funcionalidades
 
-- [x] 🛒 Listagem de produtos com layout em grade
+- [x] 🛒 Listagem de produtos
 - [x] 🔍 Página de detalhes do produto
 - [x] 🛍️ Carrinho de compras
 - [x] 🛡️ Validação de dados com Zod
 - [x] 🔑 Variáveis de ambiente tipadas e seguras com T3 Env
-- [x] 📱 Layout totalmente responsivo
 - [x] 🧪 Testes E2E com Cypress
 - [x] 🔄 Pipeline de CI rodando os testes a cada push
 
