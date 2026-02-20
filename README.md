@@ -16,7 +16,12 @@
 
 ---
 
-📃 [Sobre](#-sobre)&nbsp;&nbsp;•&nbsp;&nbsp;🛠️ [Tecnologias](#-tecnologias)&nbsp;&nbsp;•&nbsp;&nbsp;✨ [Funcionalidades](#-funcionalidades)&nbsp;&nbsp;•&nbsp;&nbsp;🚀 [Como rodar](#-como-rodar)&nbsp;&nbsp;•&nbsp;&nbsp;🧪 [Testes](#-testes)&nbsp;&nbsp;•&nbsp;&nbsp;⚙️ [CI](#-ci)
+📃 [Sobre](#sobre)&nbsp;&nbsp;•&nbsp;&nbsp;
+🛠️ [Tecnologias](#tecnologias)&nbsp;&nbsp;•&nbsp;&nbsp;
+✨ [Funcionalidades](#funcionalidades)&nbsp;&nbsp;•&nbsp;&nbsp;
+🚀 [Como rodar](#como-rodar)&nbsp;&nbsp;•&nbsp;&nbsp;
+🧪 [Testes](#testes)&nbsp;&nbsp;•&nbsp;&nbsp;
+⚙️ [CI](#ci)
 
 </div>
 
@@ -26,13 +31,13 @@
 
 ---
 
-## 📃 Sobre
+## 📃 Sobre <a id="sobre" />
 
 O **devstore** é um e-commerce simulado de roupas com identidade voltada para desenvolvedores. O projeto foi construído com foco em arquitetura moderna com **Next.js App Router**, tipagem estática com **TypeScript**, validação robusta de dados com **Zod**, estilização utilitária com **Tailwind CSS** e qualidade garantida por testes **E2E com Cypress** e um pipeline de **CI com GitHub Actions**.
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias <a id="tecnologias" />
 
 - ⚡ **[Next.js](https://nextjs.org/)** — Framework React com App Router, SSR e otimizações de performance.
 - ⚛️ **[React](https://react.dev/)** — Biblioteca para construção de interfaces declarativas.
@@ -47,7 +52,7 @@ O **devstore** é um e-commerce simulado de roupas com identidade voltada para d
 
 ---
 
-## ✨ Funcionalidades
+## ✨ Funcionalidades <a id="funcionalidades" />
 
 - [x] 🛒 Listagem de produtos
 - [x] 🔍 Página de detalhes do produto
@@ -59,7 +64,7 @@ O **devstore** é um e-commerce simulado de roupas com identidade voltada para d
 
 ---
 
-## 🚀 Como rodar
+## 🚀 Como rodar <a id="como-rodar" />
 
 ### 📋 Pré-requisitos
 
@@ -127,7 +132,7 @@ pnpm start
 
 ---
 
-## 🧪 Testes
+## 🧪 Testes <a id="testes" />
 
 Os testes **E2E** são escritos com **Cypress** e cobrem os principais fluxos da aplicação.
 
@@ -141,7 +146,7 @@ npm run cypress:run
 
 ---
 
-## ⚙️ CI
+## ⚙️ CI <a id="ci" />
 
 O projeto conta com um workflow de **Integração Contínua** via **GitHub Actions**. A cada `push` para a branch principal, o pipeline é acionado automaticamente e executa todos os testes E2E para garantir que nenhuma funcionalidade foi quebrada antes do merge.
 
