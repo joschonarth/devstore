@@ -6,8 +6,6 @@
 
 *O e-commerce de roupas feito por devs, para devs.*
 
-
-
 <img src="https://img.shields.io/github/last-commit/joschonarth/devstore?style=default&logo=git&logoColor=white&color=8b5cf6&labelColor=27272a" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/joschonarth/devstore?style=default&color=8b5cf6&labelColor=27272a" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/joschonarth/devstore?style=default&color=8b5cf6&labelColor=27272a" alt="repo-language-count">
@@ -115,18 +113,10 @@ NEXT_PUBLIC_API_BASE_URL=https://sua-devstore-api.vercel.app
 
 ```bash
 # Inicia o servidor de desenvolvimento
-pnpm dev
+pnpm run dev
 ```
 
 Acesse **[http://localhost:3000](http://localhost:3000)** no navegador.
-
-```bash
-# Gera o build de produção
-pnpm build
-
-# Inicia o servidor de produção
-pnpm start
-```
 
 ---
 
@@ -167,7 +157,6 @@ Se curtiu o projeto, deixe uma ⭐ aqui no GitHub — isso ajuda muito!
 Feito com ♥ por **[João Otávio Schonarth](https://github.com/joschonarth)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joschonarth)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joschonarth)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joschonarth@gmail.com)
 
 </div>
